@@ -1,4 +1,6 @@
-armasquads.de
+armasquads.com
 =============
+Website for creating Squad XML files in ArmA based games
 
-Website for creating Squad XML files in ARMA based games
+This is the Issue Tracker from ArmAsquads.com.
+
